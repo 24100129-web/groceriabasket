@@ -1,0 +1,84 @@
+[
+    {
+        "id": 1,
+        "name": "Christmas Family Package",
+        "description": "A complete grocery package for the whole family.",
+        "price": 1500,
+        "status": "Available",
+        "image": "images\/bundles\/bundle-5019226f4f8f1d1f.png",
+        "items": [
+            {
+                "product_name": "Sinandomeng Rice 5kg",
+                "quantity": 1
+            },
+            {
+                "product_name": "Nescafe Classic Coffee 25g",
+                "quantity": 1
+            },
+            {
+                "product_name": "Bear Brand Milk 33g",
+                "quantity": 1
+            },
+            {
+                "product_name": "Lucky Me! Pancit Canton Original 60g",
+                "quantity": 2
+            },
+            {
+                "product_name": "Gardenia Classic White Bread 400g",
+                "quantity": 1
+            },
+            {
+                "product_name": "Natures Best Fresh Eggs 12pcs",
+                "quantity": 1
+            },
+            {
+                "product_name": "Coca-Cola 1.5L",
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Snack Bundle",
+        "description": "A cheerful mix of snacks for sharing at home.",
+        "price": 499,
+        "status": "Available",
+        "image": "images\/bundles\/bundle-fba1e6fcf876904c.png",
+        "items": [
+            {
+                "product_name": "Gardenia Classic White Bread 400g",
+                "quantity": 1
+            },
+            {
+                "product_name": "Natures Best Fresh Eggs 12pcs",
+                "quantity": 1
+            },
+            {
+                "product_name": "Coca-Cola 1.5L",
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Family Essentials Package",
+        "description": "Everyday pantry staples in one convenient package.",
+        "price": 999,
+        "status": "Available",
+        "image": "images\/bundles\/bundle-bd9b0353d108c6b4.png",
+        "items": [
+            {
+                "product_name": "Sinandomeng Rice 5kg",
+                "quantity": 1
+            },
+            {
+                "product_name": "Bear Brand Milk 33g",
+                "quantity": 1
+            },
+            {
+                "product_name": "Argentina Corned Beef 175g",
+                "quantity": 1
+            }
+        ]
+    }
+]
